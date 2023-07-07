@@ -7,7 +7,7 @@
 <br>
 
 ![ProgrammingGIF](https://github.com/HenriqueA7/HenriqueA7/assets/81203317/83c73b1a-45cf-4a09-866d-43dbfc50eb11)
-<--![CodingGIF](https://github.com/HenriqueA7/HenriqueA7/assets/81203317/8cfed01f-687b-4931-ac6f-43be421f9abc)
+<!--![CodingGIF](https://github.com/HenriqueA7/HenriqueA7/assets/81203317/8cfed01f-687b-4931-ac6f-43be421f9abc)
 ![GodCodingGIF](https://github.com/HenriqueA7/HenriqueA7/assets/81203317/01f90d9a-b246-4100-ad18-7b96389469e3)
 ![DogHackerGIF](https://github.com/HenriqueA7/HenriqueA7/assets/81203317/a9fbb15b-ff74-48aa-bae7-b5d44a22900e)
 ![TonyStarkCodingCodingGIF](https://github.com/HenriqueA7/HenriqueA7/assets/81203317/f5c54cd0-8aa4-4c56-a2cc-a4ac302446b8)-->
